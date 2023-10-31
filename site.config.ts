@@ -17,9 +17,9 @@ export default siteConfig({
   description: '我是人，渴望有鱼的自由，却又害怕变成鱼之后，我要抛弃人类的回忆本能。',
 
   // social usernames (optional)
-  twitter: '#',
-  github: '#',
-  linkedin: '#',
+  // twitter: '#',
+  // github: '#',
+  // linkedin: '#',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
